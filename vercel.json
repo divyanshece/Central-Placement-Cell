@@ -5,6 +5,8 @@
     { "source": "/credits", "destination": "/credits.html" },
     { "source": "/demographics", "destination": "/demographics.html" },
     { "source": "/for-recruiters", "destination": "/for-recruiters.html" },
-    { "source": "/team", "destination": "/team.html" }
+    { "source": "/team", "destination": "/team.html" },
+    {"source": "/announcements", "destination": "/announcements.html"}
+
   ]
 }

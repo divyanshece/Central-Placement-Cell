@@ -1,0 +1,95 @@
+.
+├── assets
+│   ├── 1.avif
+│   ├── bilaspur_bg.webp
+│   ├── bilaspur_station.avif
+│   ├── cg_bus.jpg
+│   ├── culture.png
+│   ├── guru_ghasidas.png
+│   ├── hero.mp4
+│   ├── industry_interaction.avif
+│   ├── logos
+│   │   ├── logos_adani.png
+│   │   ├── logos_allstate.png
+│   │   ├── logos_aloha.png
+│   │   ├── logos_dhoot.png
+│   │   ├── logos_divider.png
+│   │   ├── logos_fitt.png
+│   │   ├── logos_gemini.png
+│   │   ├── logos_ggu.png
+│   │   ├── logos_ggu2.png
+│   │   ├── logos_ggu3.png
+│   │   ├── logos_hcl.png
+│   │   ├── logos_iitd.png
+│   │   ├── logos_infosys.png
+│   │   ├── logos_lnt.png
+│   │   ├── logos_mountblue.png
+│   │   ├── logos_naac.png
+│   │   ├── logos_revature.png
+│   │   ├── logos_tcs.png
+│   │   ├── logos_techmahindra.png
+│   │   ├── logos_thermax.png
+│   │   ├── logos_ugc.png
+│   │   ├── logos_wipro.png
+│   │   └── logos_zaggle.png
+│   ├── mock_interview.jpeg
+│   ├── new.gif
+│   ├── pc.avif
+│   ├── pc2.avif
+│   ├── skill_development.avif
+│   ├── sv_airport.avif
+│   └── vc.avif
+├── cdns
+│   ├── aos
+│   │   ├── aos.css
+│   │   └── aos.js
+│   ├── chart
+│   │   └── chart.js
+│   ├── font-awesome
+│   │   ├── css
+│   │   │   └── font-awesome.css
+│   │   └── webfonts
+│   │       ├── fa-brands-400.ttf
+│   │       ├── fa-brands-400.woff2
+│   │       ├── fa-regular-400.ttf
+│   │       ├── fa-regular-400.woff2
+│   │       ├── fa-solid-900.ttf
+│   │       ├── fa-solid-900.woff2
+│   │       ├── fa-v4compatibility.ttf
+│   │       └── fa-v4compatibility.woff2
+│   └── swiper
+│       ├── swiper-bundle.css
+│       └── swiper-bundle.js
+├── components
+│   ├── announcements.html
+│   ├── footer.html
+│   ├── header1.html
+│   └── header2.html
+├── contact.html
+├── credits.html
+├── data
+│   ├── demographics.json
+│   └── hotels.json
+├── demographics.html
+├── dist
+│   └── output.css
+├── favicon.ico
+├── for-recruiters.html
+├── index.html
+├── input.css
+├── js
+│   ├── common.js
+│   ├── demographics.js
+│   ├── for-recruiters.js
+│   ├── index.js
+│   └── team.js
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── project_structure.txt
+├── tailwind.config.js
+├── team.html
+├── test.html
+└── vercel.json
+
+14 directories, 79 files
